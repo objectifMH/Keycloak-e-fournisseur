@@ -1,7 +1,7 @@
 package fr.panda.efournisseur;
 
 import fr.panda.efournisseur.entity.Fournisseur;
-import fr.panda.efournisseur.entity.dao.FournisseurRepository;
+import fr.panda.efournisseur.dao.FournisseurRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.CommandLineRunner;
 import org.springframework.boot.SpringApplication;
